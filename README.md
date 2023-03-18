@@ -1,1 +1,1 @@
-# Tic Tac Toe Using in Java using Random() class
+# Tic Tac Toe in Java using Random() class
